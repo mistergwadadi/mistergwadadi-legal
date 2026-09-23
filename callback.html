@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OAuth Callback — MisterGwadadi Content Automation</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 600px; margin: 60px auto; padding: 0 20px; line-height: 1.6; color: #241f2e; background: #faf8f5; }
+  .card { background: #fff; border: 1px solid #e7e1d8; border-radius: 10px; padding: 20px 24px; margin: 16px 0; word-break: break-all; }
+  code { background: #efe5fb; padding: 2px 6px; border-radius: 4px; }
+</style>
+</head>
+<body>
+  <h1>Authorization received</h1>
+  <p>This is a private OAuth redirect endpoint for a personal automation tool. If you landed here by mistake, you can close this tab.</p>
+  <div class="card" id="out">Reading parameters…</div>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const code = params.get('code');
+    const state = params.get('state');
+    const error = params.get('error');
+    const out = document.getElementById('out');
+    if (error) {
+      out.innerHTML = '<strong>Error:</strong> ' + error + '<br>' + (params.get('error_description') || '');
+    } else if (code) {
+      out.innerHTML = '<strong>code:</strong><br><code>' + code + '</code><br><br><strong>state:</strong><br><code>' + (state || '') + '</code>';
+    } else {
+      out.textContent = 'No code or error parameter found in the URL.';
+    }
+  </script>
+</body>
+</html>
