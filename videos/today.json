@@ -3,15 +3,18 @@
  "videos": {
   "horoscope": {
    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/horoscope.mp4",
-   "caption": "Le classement astro du jour (26/09) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes"
+   "caption": "Le classement astro du jour (26/09) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "title": ""
   },
   "manga": {
    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/manga.mp4",
-   "caption": "Top manga adventure : Solo Leveling, Berserk, One Piece... Tu en connais combien ? #manga #mangatiktok #adventure #otaku"
+   "caption": "Top manga adventure : Solo Leveling, Berserk, One Piece... Tu en connais combien ? #manga #mangatiktok #adventure #otaku",
+   "title": ""
   },
   "jeux": {
    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/jeux.mp4",
-   "caption": "Top jeux de reflexion : Portal 2, Portal, Limbo... Ton prefere c'est lequel ? #jeuxvideo #gaming #topjeux"
+   "caption": "Top jeux de reflexion : Portal 2, Portal, Limbo... Ton prefere c'est lequel ? #jeuxvideo #gaming #topjeux",
+   "title": ""
   }
  }
 }
