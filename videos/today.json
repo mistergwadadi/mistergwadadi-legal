@@ -1,20 +1,20 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "videos": {
   "horoscope": {
    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/horoscope.mp4",
-   "caption": "Le classement astro du jour (01/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "caption": "Le classement astro du jour (02/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
   },
   "manga": {
    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/manga.mp4",
-   "caption": "Nouveaux animes de la semaine : Reincarnated as a Sword Season 2, The Ramparts of Ice Season 2, Overgeared... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
-   "title": "Nouveaux animes de la semaine"
+   "caption": "L'histoire de SSS-Class Revival Hunter en 1 minute ! Comment pensez-vous que Confucius Kim utilisera son pouvoir de retour en temps pour vaincre l'Empereur des flammes ? #manga #mangatiktok #histoire #otaku",
+   "title": "L'histoire de SSS-Class Revival Hunter"
   },
   "jeux": {
    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/jeux.mp4",
-   "caption": "4 astuces pour mieux jouer a Dead Island 2 ! Quel type d'arme préfères-tu pour te débarrasser des hordes ? #jeuxvideo #astuces #gaming #tips",
-   "title": "Astuces : Dead Island 2"
+   "caption": "4 astuces pour mieux jouer a Final Fantasy XVI ! Quelle action utilises-tu pour gagner plus facilement les gros bosses ? #jeuxvideo #astuces #gaming #tips",
+   "title": "Astuces : Final Fantasy XVI"
   }
  }
 }
