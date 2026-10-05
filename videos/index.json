@@ -1,23 +1,6 @@
 {
- "generated": "2026-10-04",
+ "generated": "2026-10-05",
  "days": {
-  "2026-10-04": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-04/horoscope.mp4",
-    "caption": "Le classement astro du jour (04/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-04/manga.mp4",
-    "caption": "L'histoire de Kusunoki’s Flunking Her High School Glow-Up en 1 minute ! Quel est le plus grand obstacle pour Keisuke avant d'accepter Shizuka ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Kusunoki’s Flunking Her High School Glow-Up"
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-04/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a The Last Spell ! Quelle stratégie préfères-tu utiliser quand tu as peu d'heros contre beaucoup d'ennemis ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : The Last Spell"
-   }
-  },
   "2026-10-05": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-05/horoscope.mp4",
@@ -67,6 +50,23 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-07/jeux.mp4",
     "caption": "Les sorties jeux video de la semaine : End of Abyss, Nivalis, Ace Combat 8: Wings of Theve... Tu as teste lequel ? #jeuxvideo #nouveaute #sortiejeuvideo #gaming",
     "title": "Sorties jeux vidéo de la semaine"
+   }
+  },
+  "2026-10-08": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/horoscope.mp4",
+    "caption": "Le classement astro du jour (08/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "manga": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/manga.mp4",
+    "caption": "Nouveaux animes de la semaine : Hello, I am a Witch and my Crush Wants me to Make a Love Potion!, PSYREN, Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
+    "title": "Nouveaux animes de la semaine"
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Tchia ! Quel animal ou objet d'âme vous semble le plus utile pour explorer ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Tchia"
    }
   }
  }
