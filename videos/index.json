@@ -1,23 +1,6 @@
 {
- "generated": "2026-10-07",
+ "generated": "2026-10-08",
  "days": {
-  "2026-10-07": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-07/horoscope.mp4",
-    "caption": "Le classement astro du jour (07/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-07/manga.mp4",
-    "caption": "Nouveaux animes de la semaine : Blue Box Season 2, Aoashi Season 2, Even the Student Council Has Its Holes!... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
-    "title": "Nouveaux animes de la semaine"
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-07/jeux.mp4",
-    "caption": "Les sorties jeux video de la semaine : End of Abyss, Nivalis, Ace Combat 8: Wings of Theve... Tu as teste lequel ? #jeuxvideo #nouveaute #sortiejeuvideo #gaming",
-    "title": "Sorties jeux vidéo de la semaine"
-   }
-  },
   "2026-10-08": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/horoscope.mp4",
@@ -67,6 +50,23 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-10/jeux.mp4",
     "caption": "4 astuces pour mieux jouer a A Space for the Unbound ! Quel est votre préféré entre la plongée mentale et les combats rapides ? #jeuxvideo #astuces #gaming #tips",
     "title": "Astuces : A Space for the Unbound"
+   }
+  },
+  "2026-10-11": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-11/horoscope.mp4",
+    "caption": "Le classement astro du jour (11/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "manga": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-11/manga.mp4",
+    "caption": "Nouveaux animes de la semaine : A Returner's Magic Should be Special Season 2, The World's Strongest Witch, Super Psychic Policeman Chojo... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
+    "title": "Nouveaux animes de la semaine"
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-11/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Pikmin 4 ! Quelle stratégie de groupe préfères-tu : toutes couleurs ensemble ou séparées par couleur ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Pikmin 4"
    }
   }
  }
