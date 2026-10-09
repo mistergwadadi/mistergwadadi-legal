@@ -1,23 +1,6 @@
 {
- "generated": "2026-10-08",
+ "generated": "2026-10-09",
  "days": {
-  "2026-10-08": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/horoscope.mp4",
-    "caption": "Le classement astro du jour (08/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/manga.mp4",
-    "caption": "Nouveaux animes de la semaine : Hello, I am a Witch and my Crush Wants me to Make a Love Potion!, PSYREN, Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
-    "title": "Nouveaux animes de la semaine"
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-08/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Tchia ! Quel animal ou objet d'âme vous semble le plus utile pour explorer ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Tchia"
-   }
-  },
   "2026-10-09": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-09/horoscope.mp4",
@@ -67,6 +50,23 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-11/jeux.mp4",
     "caption": "4 astuces pour mieux jouer a Pikmin 4 ! Quelle stratégie de groupe préfères-tu : toutes couleurs ensemble ou séparées par couleur ? #jeuxvideo #astuces #gaming #tips",
     "title": "Astuces : Pikmin 4"
+   }
+  },
+  "2026-10-12": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-12/horoscope.mp4",
+    "caption": "Le classement astro du jour (12/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "manga": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-12/manga.mp4",
+    "caption": "Nouveaux animes de la semaine : Firefly Wedding, To You in the Beyond, The Iceblade Sorcerer Shall Rule the World II... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
+    "title": "Nouveaux animes de la semaine"
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-12/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Gravity Circuit ! Quelle astuce de gestion du ring ou d'utilisation de la gravité préfères-tu ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Gravity Circuit"
    }
   }
  }
