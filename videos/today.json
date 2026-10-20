@@ -1,20 +1,25 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-19/horoscope.mp4",
-   "caption": "Le classement astro du jour (19/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-20/horoscope.mp4",
+   "caption": "Le classement astro du jour (20/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
   },
   "manga": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-19/manga.mp4",
-   "caption": "Nouveaux animes de la semaine : Rascal Does Not Dream of a Dear Friend, Chitose Is in the Ramune Bottle 2nd Cour, BanG Dream! Ave Mujica: prima aurora... Tu commences lequel ? #anime #nouveauteanime #animetiktok #otaku",
-   "title": "Nouveaux animes de la semaine"
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-20/manga.mp4",
+   "caption": "L'histoire de Chronicles of the Demon Faction en 1 minute ! Que deviendra-t-il quand il devra protéger son nouveau corps ? #manga #mangatiktok #histoire #otaku",
+   "title": "L'histoire de Chronicles of the Demon Faction"
   },
   "jeux": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-19/jeux.mp4",
-   "caption": "4 astuces pour mieux jouer a Valheim ! Quel biome ou quelle astuce de terrain tu utilises pour construire ton base ? #jeuxvideo #astuces #gaming #tips",
-   "title": "Astuces : Valheim"
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-20/jeux.mp4",
+   "caption": "4 astuces pour mieux jouer a Uncharted: Legacy of Thieves Collection ! Quelle méthode préfères-tu : le combat direct ou la stratégie furtive ? #jeuxvideo #astuces #gaming #tips",
+   "title": "Astuces : Uncharted: Legacy of Thieves Collection"
+  },
+  "actu": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-20/actu.mp4",
+   "caption": "L'actu Antilles & Monde du 20/10 : Mobilisation RPPRAC Dillon Martinique, Maison Héka aide patients après cancer, Pillages à Pointoise : commerçants démunis, Cisjordanie : violences contre observateurs... Mo kreyol : Bèl = beau, belle. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+   "title": "L'actu Antilles & Monde du 20/10"
   }
  }
 }
