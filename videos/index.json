@@ -1,23 +1,6 @@
 {
- "generated": "2026-10-21",
+ "generated": "2026-10-22",
  "days": {
-  "2026-10-21": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-21/horoscope.mp4",
-    "caption": "Le classement astro du jour (21/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-21/manga.mp4",
-    "caption": "L'histoire de Dungeon Odyssey en 1 minute ! Jin-U aurait-il pu éviter ce destin ou ses instincts l'auraient-ils emmené loin ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Dungeon Odyssey"
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-21/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Forza Horizon 5 ! Quelle action secondaire préfères-tu faire pour explorer la culture du Japon ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Forza Horizon 5"
-   }
-  },
   "2026-10-22": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/horoscope.mp4",
@@ -131,6 +114,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-31/horoscope.mp4",
     "caption": "Le classement astro du jour (31/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   }
+  },
+  "2026-11-01": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/horoscope.mp4",
+    "caption": "Le classement astro du jour (01/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "mot_kreol": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/mot_kreol.mp4",
+    "caption": "Ti kou kreyol du jour : Kaz=maison, Dlo=eau, Soley=soleil, Lapli=pluie. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+    "title": "Ti kou kreyol — Kaz, Dlo..."
    }
   }
  }
