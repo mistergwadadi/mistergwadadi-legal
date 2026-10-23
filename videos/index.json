@@ -1,23 +1,6 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "days": {
-  "2026-10-22": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/horoscope.mp4",
-    "caption": "Le classement astro du jour (22/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/manga.mp4",
-    "caption": "L'histoire de The Extra’s Academy Survival Guide en 1 minute ! Pensez-vous qu'Ed parviendra à sauver le monde sans devenir un héros ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de The Extra’s Academy Survival Guide"
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Marvel's Guardians of the Galaxy ! Quelle stratégie secrète du jeu préfères-tu utiliser lors d'une mission difficile ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Marvel's Guardians of the Galaxy"
-   }
-  },
   "2026-10-23": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/horoscope.mp4",
@@ -33,6 +16,11 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/jeux.mp4",
     "caption": "4 astuces pour mieux jouer a Deathloop ! Quelle stratégie temporelle préfères-tu utiliser dans Deathloop ? #jeuxvideo #astuces #gaming #tips",
     "title": "Astuces : Deathloop"
+   },
+   "actu": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/actu.mp4",
+    "caption": "L'actu Antilles & Monde du 23/10 : Élus guadeloupéens demandent aide à l'État, José Gaddarkhan redressement judiciaire Guadeloupe, Martinique : Affaire TCSP-SODEM, Quiberon et les salariés d'une conserverie... Mo kreyol : Gadé = regarder. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+    "title": "L'actu Antilles & Monde du 23/10"
    }
   },
   "2026-10-24": {
@@ -114,6 +102,11 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-31/horoscope.mp4",
     "caption": "Le classement astro du jour (31/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-31/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Inscryption ! Quelle stratégie utilisez-vous pour faire pencher la balance contre votre ennemi ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Inscryption"
    }
   },
   "2026-11-01": {
@@ -126,6 +119,13 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/mot_kreol.mp4",
     "caption": "Ti kou kreyol du jour : Kaz=maison, Dlo=eau, Soley=soleil, Lapli=pluie. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
     "title": "Ti kou kreyol — Kaz, Dlo..."
+   }
+  },
+  "2026-11-02": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-02/horoscope.mp4",
+    "caption": "Le classement astro du jour (02/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
    }
   }
  }

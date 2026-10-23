@@ -1,20 +1,25 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/horoscope.mp4",
-   "caption": "Le classement astro du jour (22/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/horoscope.mp4",
+   "caption": "Le classement astro du jour (23/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
   },
   "manga": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/manga.mp4",
-   "caption": "L'histoire de The Extra’s Academy Survival Guide en 1 minute ! Pensez-vous qu'Ed parviendra à sauver le monde sans devenir un héros ? #manga #mangatiktok #histoire #otaku",
-   "title": "L'histoire de The Extra’s Academy Survival Guide"
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/manga.mp4",
+   "caption": "L'histoire de Helmut en 1 minute ! Helmut finira-t-il par suivre son cœur ou laisser prendre le dessus ses instincts de bête ? #manga #mangatiktok #histoire #otaku",
+   "title": "L'histoire de Helmut"
   },
   "jeux": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-22/jeux.mp4",
-   "caption": "4 astuces pour mieux jouer a Marvel's Guardians of the Galaxy ! Quelle stratégie secrète du jeu préfères-tu utiliser lors d'une mission difficile ? #jeuxvideo #astuces #gaming #tips",
-   "title": "Astuces : Marvel's Guardians of the Galaxy"
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/jeux.mp4",
+   "caption": "4 astuces pour mieux jouer a Deathloop ! Quelle stratégie temporelle préfères-tu utiliser dans Deathloop ? #jeuxvideo #astuces #gaming #tips",
+   "title": "Astuces : Deathloop"
+  },
+  "actu": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-23/actu.mp4",
+   "caption": "L'actu Antilles & Monde du 23/10 : Élus guadeloupéens demandent aide à l'État, José Gaddarkhan redressement judiciaire Guadeloupe, Martinique : Affaire TCSP-SODEM, Quiberon et les salariés d'une conserverie... Mo kreyol : Gadé = regarder. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+   "title": "L'actu Antilles & Monde du 23/10"
   }
  }
 }
