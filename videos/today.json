@@ -1,20 +1,20 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-24/horoscope.mp4",
-   "caption": "Le classement astro du jour (24/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-25/horoscope.mp4",
+   "caption": "Le classement astro du jour (25/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
   },
   "manga": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-24/manga.mp4",
-   "caption": "L'histoire de Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna en 1 minute ! Avez-vous déjà rêvé d'un travail fantastique ou préférez-vous rester dans votre réalité ? #manga #mangatiktok #histoire #otaku",
-   "title": "L'histoire de Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna"
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-25/manga.mp4",
+   "caption": "L'histoire de The Art of Reincarnation en 1 minute ! Est-ce que la pitié peut vraiment être plus dangereuse que la vengeance dans cette histoire ? #manga #mangatiktok #histoire #otaku",
+   "title": "L'histoire de The Art of Reincarnation"
   },
-  "jeux": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-24/jeux.mp4",
-   "caption": "4 astuces pour mieux jouer a Hogwarts Legacy ! Quelle maison de Poudlard choisirais-tu pour ta prochaine aventure ? #jeuxvideo #astuces #gaming #tips",
-   "title": "Astuces : Hogwarts Legacy"
+  "mot_kreol": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-25/mot_kreol.mp4",
+   "caption": "Ti kou kreyol du jour : Soley=soleil, Lapli=pluie, Manjé=manger, nourriture, Bokit=sandwich frit guadeloupéen. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+   "title": "Ti kou kreyol — Soley, Lapli..."
   }
  }
 }
