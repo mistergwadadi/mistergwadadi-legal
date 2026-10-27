@@ -1,18 +1,16 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "days": {
-  "2026-10-26": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-26/horoscope.mp4",
-    "caption": "Le classement astro du jour (26/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   }
-  },
   "2026-10-27": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-27/horoscope.mp4",
     "caption": "Le classement astro du jour (27/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "actu": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-27/actu.mp4",
+    "caption": "L'actu Antilles & Monde du 27/10 : Barrage contre algues Marigot, SMGEAG présente nouvelle régie, Enquête salon coiffure Fort-de-France, Angel Preljocaj présente sa nouvelle création... Mo kreyol : Pwason = poisson. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+    "title": "L'actu Antilles & Monde du 27/10"
    }
   },
   "2026-10-28": {
@@ -30,8 +28,8 @@
    },
    "manga": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-29/manga.mp4",
-    "caption": "L'histoire de Chronicles of the Lazy Sovereign en 1 minute ! Avez-vous déjà commencé votre journée trop tard et trouvé cela bénéfique ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Chronicles of the Lazy Sovereign"
+    "caption": "L'histoire de Absolute Regression en 1 minute ! Pensez-vous que Mugi Geom réussira à réparer le passé et sauver son peuple ? #manga #mangatiktok #histoire #otaku",
+    "title": "L'histoire de Absolute Regression"
    }
   },
   "2026-10-30": {
@@ -101,6 +99,13 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-05/manga.mp4",
     "caption": "L'histoire de Absolute Sword Sense en 1 minute ! Crois-tu que Woonhwi pourrait utiliser la voix du poignard pour changer son destin ? #manga #mangatiktok #histoire #otaku",
     "title": "L'histoire de Absolute Sword Sense"
+   }
+  },
+  "2026-11-06": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-06/horoscope.mp4",
+    "caption": "Le classement astro du jour (06/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
    }
   }
  }
