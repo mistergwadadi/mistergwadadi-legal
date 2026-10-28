@@ -1,18 +1,6 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "days": {
-  "2026-10-27": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-27/horoscope.mp4",
-    "caption": "Le classement astro du jour (27/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-27/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 27/10 : Barrage contre algues Marigot, SMGEAG présente nouvelle régie, Enquête salon coiffure Fort-de-France, Angel Preljocaj présente sa nouvelle création... Mo kreyol : Pwason = poisson. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 27/10"
-   }
-  },
   "2026-10-28": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-28/horoscope.mp4",
@@ -106,6 +94,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-06/horoscope.mp4",
     "caption": "Le classement astro du jour (06/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   }
+  },
+  "2026-11-07": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-07/horoscope.mp4",
+    "caption": "Le classement astro du jour (07/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-07/jeux.mp4",
+    "caption": "Les sorties jeux video de la semaine : Call of Duty: Modern Warfare 4, REKA, Final Fantasy Resonance... Tu as teste lequel ? #jeuxvideo #nouveaute #sortiejeuvideo #gaming",
+    "title": "Sorties jeux vidéo de la semaine"
    }
   }
  }
