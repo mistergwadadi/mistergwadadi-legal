@@ -1,10 +1,15 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-28/horoscope.mp4",
-   "caption": "Le classement astro du jour (28/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-29/horoscope.mp4",
+   "caption": "Le classement astro du jour (29/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
+  },
+  "manga": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-29/manga.mp4",
+   "caption": "L'histoire de Absolute Regression en 1 minute ! Pensez-vous que Mugi Geom réussira à réparer le passé et sauver son peuple ? #manga #mangatiktok #histoire #otaku",
+   "title": "L'histoire de Absolute Regression"
   }
  }
 }

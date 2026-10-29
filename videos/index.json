@@ -1,13 +1,6 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-29",
  "days": {
-  "2026-10-28": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-28/horoscope.mp4",
-    "caption": "Le classement astro du jour (28/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   }
-  },
   "2026-10-29": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-29/horoscope.mp4",
@@ -106,6 +99,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-07/jeux.mp4",
     "caption": "Les sorties jeux video de la semaine : Call of Duty: Modern Warfare 4, REKA, Final Fantasy Resonance... Tu as teste lequel ? #jeuxvideo #nouveaute #sortiejeuvideo #gaming",
     "title": "Sorties jeux vidéo de la semaine"
+   }
+  },
+  "2026-11-08": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-08/horoscope.mp4",
+    "caption": "Le classement astro du jour (08/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "mot_kreol": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-08/mot_kreol.mp4",
+    "caption": "Ti kou kreyol du jour : Doudou=chéri, chérie, Timoun=enfant, Kaz=maison, Dlo=eau. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+    "title": "Ti kou kreyol — Doudou, Timoun..."
    }
   }
  }
