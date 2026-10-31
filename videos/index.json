@@ -1,18 +1,6 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-10-31",
  "days": {
-  "2026-10-30": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-30/horoscope.mp4",
-    "caption": "Le classement astro du jour (30/10) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-30/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 30/10 : Vaïna Picot nommée aux World Sailing Awards, Secourus mariniers Sainte-Lucie, Armes de guerre saisies à Fort-de-France, Hélicoptère européen s'écrase en Bosnie... Mo kreyol : Aswè = soir. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 30/10"
-   }
-  },
   "2026-10-31": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-31/horoscope.mp4",
@@ -21,8 +9,8 @@
    },
    "jeux": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-10-31/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Inscryption ! Quelle stratégie utilisez-vous pour faire pencher la balance contre votre ennemi ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Inscryption"
+    "caption": "4 astuces pour mieux jouer a Mass Effect: Legendary Edition ! Quelle classe de Shepard préfères-tu jouer et pourquoi ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Mass Effect: Legendary Edition"
    }
   },
   "2026-11-01": {
@@ -110,6 +98,13 @@
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-09/horoscope.mp4",
     "caption": "Le classement astro du jour (09/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   }
+  },
+  "2026-11-10": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-10/horoscope.mp4",
+    "caption": "Le classement astro du jour (10/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
    }
   }
