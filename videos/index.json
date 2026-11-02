@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "days": {
-  "2026-11-01": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/horoscope.mp4",
-    "caption": "Le classement astro du jour (01/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "mot_kreol": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/mot_kreol.mp4",
-    "caption": "Ti kou kreyol du jour : Kaz=maison, Dlo=eau, Soley=soleil, Lapli=pluie. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
-    "title": "Ti kou kreyol — Kaz, Dlo..."
-   }
-  },
   "2026-11-02": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-02/horoscope.mp4",
@@ -35,8 +23,8 @@
    },
    "bd": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-04/bd.mp4",
-    "caption": "Mister Gwadady - Chapitre 5 : La greve. Twop se twop ! Inspire de l actualite, en kreyol. La suite bientot... #bd #mistergwadadi #guadeloupe #creole #greve #antilles #971",
-    "title": "Mister Gwadady - Chapitre 5 : La greve"
+    "caption": "Mister Gwadady - Chapitre 7 : Lannwit. Lannwit-la tout nwe, on soukougnan ka chase... Mister Gwadady ka veye kpartou epi lame a lonb a-y. An kreyol. La suite bientot... #bd #mistergwadadi #guadeloupe #creole #soukougnan #antilles #971",
+    "title": "Mister Gwadady - Chapitre 7 : Lannwit"
    }
   },
   "2026-11-05": {
@@ -106,6 +94,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-11/bd.mp4",
     "caption": "Mister Gwadady - Chapitre 6 : Dlo. Tout peyi-la a sek, dlo-la ka vann two che... Mister Gwadady ka apeze on Manman Dlo pou sove lile. An kreyol. La suite bientot... #bd #mistergwadadi #guadeloupe #creole #dlo #eau #antilles #971",
     "title": "Mister Gwadady - Chapitre 6 : Dlo"
+   }
+  },
+  "2026-11-12": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-12/horoscope.mp4",
+    "caption": "Le classement astro du jour (12/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "manga": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-12/manga.mp4",
+    "caption": "L'histoire de There's No Such Thing as a Bad Lady en 1 minute ! Pensez-vous que la magie soit vraiment un obstacle ou une opportunité pour les nobles ? #manga #mangatiktok #histoire #otaku",
+    "title": "L'histoire de There's No Such Thing as a Bad Lady"
    }
   }
  }

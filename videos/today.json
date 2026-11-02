@@ -1,15 +1,10 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/horoscope.mp4",
-   "caption": "Le classement astro du jour (01/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-02/horoscope.mp4",
+   "caption": "Le classement astro du jour (02/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
-  },
-  "mot_kreol": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-01/mot_kreol.mp4",
-   "caption": "Ti kou kreyol du jour : Kaz=maison, Dlo=eau, Soley=soleil, Lapli=pluie. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
-   "title": "Ti kou kreyol — Kaz, Dlo..."
   }
  }
 }
