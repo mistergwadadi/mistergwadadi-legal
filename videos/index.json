@@ -1,18 +1,16 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "days": {
-  "2026-11-02": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-02/horoscope.mp4",
-    "caption": "Le classement astro du jour (02/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   }
-  },
   "2026-11-03": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-03/horoscope.mp4",
     "caption": "Le classement astro du jour (03/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "actu": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-03/actu.mp4",
+    "caption": "L'actu Antilles & Monde du 03/11 : Louis-Philippe Vigilant vise trois étoiles, Homicide au Lamentin, Route du Rhum à Anse-Bertrand, Négociations Russie-Ukraine Abou Dhabi... Mo kreyol : Timoun = enfant. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+    "title": "L'actu Antilles & Monde du 03/11"
    }
   },
   "2026-11-04": {
@@ -35,8 +33,8 @@
    },
    "manga": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-05/manga.mp4",
-    "caption": "L'histoire de Absolute Sword Sense en 1 minute ! Crois-tu que Woonhwi pourrait utiliser la voix du poignard pour changer son destin ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Absolute Sword Sense"
+    "caption": "L'histoire de Myst, Might, Mayhem en 1 minute ! Penses-tu que Gyeong-Un Mok parviendra à venger sa famille ? #manga #mangatiktok #histoire #otaku",
+    "title": "L'histoire de Myst, Might, Mayhem"
    }
   },
   "2026-11-06": {
@@ -106,6 +104,13 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-12/manga.mp4",
     "caption": "L'histoire de There's No Such Thing as a Bad Lady en 1 minute ! Pensez-vous que la magie soit vraiment un obstacle ou une opportunité pour les nobles ? #manga #mangatiktok #histoire #otaku",
     "title": "L'histoire de There's No Such Thing as a Bad Lady"
+   }
+  },
+  "2026-11-13": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-13/horoscope.mp4",
+    "caption": "Le classement astro du jour (13/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
    }
   }
  }

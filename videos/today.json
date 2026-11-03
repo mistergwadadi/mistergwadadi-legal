@@ -1,10 +1,15 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-02/horoscope.mp4",
-   "caption": "Le classement astro du jour (02/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-03/horoscope.mp4",
+   "caption": "Le classement astro du jour (03/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
+  },
+  "actu": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-03/actu.mp4",
+   "caption": "L'actu Antilles & Monde du 03/11 : Louis-Philippe Vigilant vise trois étoiles, Homicide au Lamentin, Route du Rhum à Anse-Bertrand, Négociations Russie-Ukraine Abou Dhabi... Mo kreyol : Timoun = enfant. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+   "title": "L'actu Antilles & Monde du 03/11"
   }
  }
 }
