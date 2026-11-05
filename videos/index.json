@@ -1,30 +1,6 @@
 {
- "generated": "2026-11-03",
+ "generated": "2026-11-05",
  "days": {
-  "2026-11-03": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-03/horoscope.mp4",
-    "caption": "Le classement astro du jour (03/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-03/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 03/11 : Louis-Philippe Vigilant vise trois étoiles, Homicide au Lamentin, Route du Rhum à Anse-Bertrand, Négociations Russie-Ukraine Abou Dhabi... Mo kreyol : Timoun = enfant. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 03/11"
-   }
-  },
-  "2026-11-04": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-04/horoscope.mp4",
-    "caption": "Le classement astro du jour (04/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "bd": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-04/bd.mp4",
-    "caption": "Mister Gwadady - Chapitre 7 : Lannwit. Lannwit-la tout nwe, on soukougnan ka chase... Mister Gwadady ka veye kpartou epi lame a lonb a-y. An kreyol. La suite bientot... #bd #mistergwadadi #guadeloupe #creole #soukougnan #antilles #971",
-    "title": "Mister Gwadady - Chapitre 7 : Lannwit"
-   }
-  },
   "2026-11-05": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-05/horoscope.mp4",
@@ -49,11 +25,6 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-07/horoscope.mp4",
     "caption": "Le classement astro du jour (07/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-07/jeux.mp4",
-    "caption": "Les sorties jeux video de la semaine : Call of Duty: Modern Warfare 4, REKA, Final Fantasy Resonance... Tu as teste lequel ? #jeuxvideo #nouveaute #sortiejeuvideo #gaming",
-    "title": "Sorties jeux vidéo de la semaine"
    }
   },
   "2026-11-08": {
@@ -111,6 +82,25 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-13/horoscope.mp4",
     "caption": "Le classement astro du jour (13/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   }
+  },
+  "2026-11-14": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/horoscope.mp4",
+    "caption": "Le classement astro du jour (14/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   }
+  },
+  "2026-11-15": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-15/horoscope.mp4",
+    "caption": "Le classement astro du jour (15/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "mot_kreol": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-15/mot_kreol.mp4",
+    "caption": "Ti kou kreyol du jour : Sa ou fè=comment ça va, An ka vin=j'arrive, Doudou=chéri, chérie, Timoun=enfant. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+    "title": "Ti kou kreyol — Sa ou fè, An ka vin..."
    }
   }
  }
