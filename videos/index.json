@@ -1,23 +1,16 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "days": {
-  "2026-11-05": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-05/horoscope.mp4",
-    "caption": "Le classement astro du jour (05/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-05/manga.mp4",
-    "caption": "L'histoire de Myst, Might, Mayhem en 1 minute ! Penses-tu que Gyeong-Un Mok parviendra à venger sa famille ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Myst, Might, Mayhem"
-   }
-  },
   "2026-11-06": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-06/horoscope.mp4",
     "caption": "Le classement astro du jour (06/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "actu": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-06/actu.mp4",
+    "caption": "L'actu Antilles & Monde du 06/11 : Docteurs juniors aux Antilles, Violence ordinaire à Basse-Terre, Marilyn Malmin présente Manzè Bidjin, Dernière Internationale sort son album... Mo kreyol : Soley = soleil. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+    "title": "L'actu Antilles & Monde du 06/11"
    }
   },
   "2026-11-07": {
@@ -101,6 +94,13 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-15/mot_kreol.mp4",
     "caption": "Ti kou kreyol du jour : Sa ou fè=comment ça va, An ka vin=j'arrive, Doudou=chéri, chérie, Timoun=enfant. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
     "title": "Ti kou kreyol — Sa ou fè, An ka vin..."
+   }
+  },
+  "2026-11-16": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-16/horoscope.mp4",
+    "caption": "Le classement astro du jour (16/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
    }
   }
  }
