@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "days": {
-  "2026-11-08": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-08/horoscope.mp4",
-    "caption": "Le classement astro du jour (08/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "mot_kreol": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-08/mot_kreol.mp4",
-    "caption": "Ti kou kreyol du jour : Doudou=chéri, chérie, Timoun=enfant, Kaz=maison, Dlo=eau. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
-    "title": "Ti kou kreyol — Doudou, Timoun..."
-   }
-  },
   "2026-11-09": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-09/horoscope.mp4",
@@ -32,11 +20,6 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-11/horoscope.mp4",
     "caption": "Le classement astro du jour (11/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
-   },
-   "bd": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-11/bd.mp4",
-    "caption": "Mister Gwadady - Chapitre 6 : Dlo. Tout peyi-la a sek, dlo-la ka vann two che... Mister Gwadady ka apeze on Manman Dlo pou sove lile. An kreyol. La suite bientot... #bd #mistergwadadi #guadeloupe #creole #dlo #eau #antilles #971",
-    "title": "Mister Gwadady - Chapitre 6 : Dlo"
    }
   },
   "2026-11-12": {
@@ -101,6 +84,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-18/bd.mp4",
     "caption": "Mister Gwadady - Chapitre 8 : Fas a fas. Le Baron descend enfin de sa tour et propose a Mister Gwadady de regner avec lui... mais lui ne veut que proteger les siens. An kreyol. La suite bientot... #bd #mistergwadadi #guadeloupe #creole #antilles #971",
     "title": "Mister Gwadady - Chapitre 8 : Fas a fas"
+   }
+  },
+  "2026-11-19": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-19/horoscope.mp4",
+    "caption": "Le classement astro du jour (19/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "manga": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-19/manga.mp4",
+    "caption": "L'histoire de Ultimate Shut-in en 1 minute ! Comment feriez-vous pour protéger votre quartier sans pouvoir sortir de chez vous ? #manga #mangatiktok #histoire #otaku",
+    "title": "L'histoire de Ultimate Shut-in"
    }
   }
  }
