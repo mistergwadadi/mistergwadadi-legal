@@ -1,10 +1,15 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-09/horoscope.mp4",
-   "caption": "Le classement astro du jour (09/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-10/horoscope.mp4",
+   "caption": "Le classement astro du jour (10/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
+  },
+  "actu": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-10/actu.mp4",
+   "caption": "L'actu Antilles & Monde du 10/11 : Finales Basket à Pellière-Donatien, Garde à vue levée, enquête continue, Tours d'eau en Martinique, Kushner appelle un nouveau cadre... Mo kreyol : Péyi = pays. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+   "title": "L'actu Antilles & Monde du 10/11"
   }
  }
 }
