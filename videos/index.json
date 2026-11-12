@@ -1,13 +1,6 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "days": {
-  "2026-11-11": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-11/horoscope.mp4",
-    "caption": "Le classement astro du jour (11/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   }
-  },
   "2026-11-12": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-12/horoscope.mp4",
@@ -96,6 +89,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-21/horoscope.mp4",
     "caption": "Le classement astro du jour (21/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   }
+  },
+  "2026-11-22": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-22/horoscope.mp4",
+    "caption": "Le classement astro du jour (22/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "mot_kreol": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-22/mot_kreol.mp4",
+    "caption": "Ti kou kreyol du jour : Maten=matin, Aswè=soir, Sa ou fè=comment ça va, An ka vin=j'arrive. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+    "title": "Ti kou kreyol — Maten, Aswè..."
    }
   }
  }
