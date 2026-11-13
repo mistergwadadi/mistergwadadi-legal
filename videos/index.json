@@ -1,23 +1,16 @@
 {
- "generated": "2026-11-12",
+ "generated": "2026-11-13",
  "days": {
-  "2026-11-12": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-12/horoscope.mp4",
-    "caption": "Le classement astro du jour (12/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-12/manga.mp4",
-    "caption": "L'histoire de The Infinite Mage en 1 minute ! Penses-tu que l'amour des livres puisse vraiment donner un pouvoir magique ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de The Infinite Mage"
-   }
-  },
   "2026-11-13": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-13/horoscope.mp4",
     "caption": "Le classement astro du jour (13/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "actu": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-13/actu.mp4",
+    "caption": "L'actu Antilles & Monde du 13/11 : Au Lamentin, seniors en activité sportive, Gendarmerie cherche témoins accident mortel, Enregistrement sonore fragilise les dénégations, L'Europe présente lors des négociations... Mo kreyol : Fanm = femme. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+    "title": "L'actu Antilles & Monde du 13/11"
    }
   },
   "2026-11-14": {
@@ -101,6 +94,13 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-22/mot_kreol.mp4",
     "caption": "Ti kou kreyol du jour : Maten=matin, Aswè=soir, Sa ou fè=comment ça va, An ka vin=j'arrive. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
     "title": "Ti kou kreyol — Maten, Aswè..."
+   }
+  },
+  "2026-11-23": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-23/horoscope.mp4",
+    "caption": "Le classement astro du jour (23/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
    }
   }
  }
