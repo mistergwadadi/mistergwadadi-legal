@@ -1,23 +1,16 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "days": {
-  "2026-11-13": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-13/horoscope.mp4",
-    "caption": "Le classement astro du jour (13/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-13/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 13/11 : Au Lamentin, seniors en activité sportive, Gendarmerie cherche témoins accident mortel, Enregistrement sonore fragilise les dénégations, L'Europe présente lors des négociations... Mo kreyol : Fanm = femme. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 13/11"
-   }
-  },
   "2026-11-14": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/horoscope.mp4",
     "caption": "Le classement astro du jour (14/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Raft ! Quelle stratégie utilises-tu pour survivre dans le courant ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Raft"
    }
   },
   "2026-11-15": {
@@ -82,6 +75,11 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-21/horoscope.mp4",
     "caption": "Le classement astro du jour (21/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-21/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Satisfactory ! Tu préfères commencer sur la plaine ou dans les montagnes pour ton premier projet ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Satisfactory"
    }
   },
   "2026-11-22": {
@@ -100,6 +98,13 @@
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-23/horoscope.mp4",
     "caption": "Le classement astro du jour (23/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   }
+  },
+  "2026-11-24": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-24/horoscope.mp4",
+    "caption": "Le classement astro du jour (24/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
    }
   }
