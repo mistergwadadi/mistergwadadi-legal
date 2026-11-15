@@ -1,15 +1,15 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/horoscope.mp4",
-   "caption": "Le classement astro du jour (14/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-15/horoscope.mp4",
+   "caption": "Le classement astro du jour (15/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
   },
-  "jeux": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/jeux.mp4",
-   "caption": "4 astuces pour mieux jouer a Raft ! Quelle stratégie utilises-tu pour survivre dans le courant ? #jeuxvideo #astuces #gaming #tips",
-   "title": "Astuces : Raft"
+  "mot_kreol": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-15/mot_kreol.mp4",
+   "caption": "Ti kou kreyol du jour : Sa ou fè=comment ça va, An ka vin=j'arrive, Doudou=chéri, chérie, Timoun=enfant. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+   "title": "Ti kou kreyol — Sa ou fè, An ka vin..."
   }
  }
 }

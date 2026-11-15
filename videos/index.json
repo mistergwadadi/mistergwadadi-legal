@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "days": {
-  "2026-11-14": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/horoscope.mp4",
-    "caption": "Le classement astro du jour (14/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-14/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Raft ! Quelle stratégie utilises-tu pour survivre dans le courant ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Raft"
-   }
-  },
   "2026-11-15": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-15/horoscope.mp4",
@@ -105,6 +93,13 @@
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-24/horoscope.mp4",
     "caption": "Le classement astro du jour (24/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   }
+  },
+  "2026-11-25": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-25/horoscope.mp4",
+    "caption": "Le classement astro du jour (25/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
    }
   }
