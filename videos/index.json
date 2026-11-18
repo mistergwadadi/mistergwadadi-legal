@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "days": {
-  "2026-11-17": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-17/horoscope.mp4",
-    "caption": "Le classement astro du jour (17/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-17/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 17/11 : Fusillade aux Abymes : près d'une tuerie, Chaleur record en Guadeloupe, Procès d'Anicet Soquet à Fort-de-France, La mairie parisienne lance un mascuradar... Mo kreyol : Jòdi = aujourd'hui. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 17/11"
-   }
-  },
   "2026-11-18": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-18/horoscope.mp4",
@@ -28,8 +16,8 @@
    },
    "manga": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-19/manga.mp4",
-    "caption": "L'histoire de Ultimate Shut-in en 1 minute ! Comment feriez-vous pour protéger votre quartier sans pouvoir sortir de chez vous ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Ultimate Shut-in"
+    "caption": "L'histoire de Blue Lock en 1 minute ! Penses-tu que Yoichi Isagi sera capable de devenir cette légende absolue ? #manga #mangatiktok #histoire #otaku",
+    "title": "L'histoire de Blue Lock"
    }
   },
   "2026-11-20": {
@@ -101,6 +89,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-27/horoscope.mp4",
     "caption": "Le classement astro du jour (27/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   }
+  },
+  "2026-11-28": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-28/horoscope.mp4",
+    "caption": "Le classement astro du jour (28/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-28/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Psychonauts 2 ! Quel pouvoir psychique préfère-tu utiliser en premier dans tes aventures ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Psychonauts 2"
    }
   }
  }
