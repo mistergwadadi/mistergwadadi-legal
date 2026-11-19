@@ -1,13 +1,6 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "days": {
-  "2026-11-18": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-18/horoscope.mp4",
-    "caption": "Le classement astro du jour (18/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   }
-  },
   "2026-11-19": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-19/horoscope.mp4",
@@ -101,6 +94,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-28/jeux.mp4",
     "caption": "4 astuces pour mieux jouer a Psychonauts 2 ! Quel pouvoir psychique préfère-tu utiliser en premier dans tes aventures ? #jeuxvideo #astuces #gaming #tips",
     "title": "Astuces : Psychonauts 2"
+   }
+  },
+  "2026-11-29": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-29/horoscope.mp4",
+    "caption": "Le classement astro du jour (29/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "mot_kreol": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-29/mot_kreol.mp4",
+    "caption": "Ti kou kreyol du jour : Pwason=poisson, Kann=canne à sucre, Maten=matin, Aswè=soir. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+    "title": "Ti kou kreyol — Pwason, Kann..."
    }
   }
  }
