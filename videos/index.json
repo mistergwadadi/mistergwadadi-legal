@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "days": {
-  "2026-11-20": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-20/horoscope.mp4",
-    "caption": "Le classement astro du jour (20/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-20/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 20/11 : Fort-de-France : savoir-faire antillais, Fort-de-France fêtera ses 40 ans, Paiement fractionné modifié, Usine du Cher augmente production d'obus... Mo kreyol : Mèsi = merci. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 20/11"
-   }
-  },
   "2026-11-21": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-21/horoscope.mp4",
@@ -105,6 +93,13 @@
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-30/horoscope.mp4",
     "caption": "Le classement astro du jour (30/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   }
+  },
+  "2026-12-01": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-01/horoscope.mp4",
+    "caption": "Le classement astro du jour (01/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
    }
   }
