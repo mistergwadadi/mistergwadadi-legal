@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "days": {
-  "2026-11-21": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-21/horoscope.mp4",
-    "caption": "Le classement astro du jour (21/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "jeux": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-21/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Satisfactory ! Tu préfères commencer sur la plaine ou dans les montagnes pour ton premier projet ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Satisfactory"
-   }
-  },
   "2026-11-22": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-22/horoscope.mp4",
@@ -100,6 +88,13 @@
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-01/horoscope.mp4",
     "caption": "Le classement astro du jour (01/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   }
+  },
+  "2026-12-02": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-02/horoscope.mp4",
+    "caption": "Le classement astro du jour (02/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
    }
   }
