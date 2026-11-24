@@ -1,10 +1,15 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "videos": {
   "horoscope": {
-   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-23/horoscope.mp4",
-   "caption": "Le classement astro du jour (23/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-24/horoscope.mp4",
+   "caption": "Le classement astro du jour (24/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
    "title": ""
+  },
+  "actu": {
+   "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-24/actu.mp4",
+   "caption": "L'actu Antilles & Monde du 24/11 : Gaston Browne rejette offre Royal Caribbean, Artisans expulsés de Pointe-Simon, Professeure mise à pied à Rivière-Salée, Zaporijjia : deux morts dans une frappe... Mo kreyol : Chalè = chaleur. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+   "title": "L'actu Antilles & Monde du 24/11"
   }
  }
 }
