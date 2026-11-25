@@ -1,18 +1,6 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "days": {
-  "2026-11-24": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-24/horoscope.mp4",
-    "caption": "Le classement astro du jour (24/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "actu": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-24/actu.mp4",
-    "caption": "L'actu Antilles & Monde du 24/11 : Gaston Browne rejette offre Royal Caribbean, Artisans expulsés de Pointe-Simon, Professeure mise à pied à Rivière-Salée, Zaporijjia : deux morts dans une frappe... Mo kreyol : Chalè = chaleur. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
-    "title": "L'actu Antilles & Monde du 24/11"
-   }
-  },
   "2026-11-25": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-25/horoscope.mp4",
@@ -28,8 +16,8 @@
    },
    "manga": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-26/manga.mp4",
-    "caption": "L'histoire de Shadow of the Supreme en 1 minute ! Pourrait Yang-Cheon Ku réussir à changer le cours de l'histoire sans recommencer ses erreurs ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Shadow of the Supreme"
+    "caption": "L'histoire de Omniscient Reader en 1 minute ! Si tu savais tout avant le début, changerais-tu ton destin ? #manga #mangatiktok #histoire #otaku",
+    "title": "L'histoire de Omniscient Reader"
    }
   },
   "2026-11-27": {
@@ -101,6 +89,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-04/horoscope.mp4",
     "caption": "Le classement astro du jour (04/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   }
+  },
+  "2026-12-05": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-05/horoscope.mp4",
+    "caption": "Le classement astro du jour (05/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "jeux": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-05/jeux.mp4",
+    "caption": "4 astuces pour mieux jouer a Aperture Desk Job ! Tu as testé le jeu sur ton bureau ou uniquement en ligne ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Aperture Desk Job"
    }
   }
  }
