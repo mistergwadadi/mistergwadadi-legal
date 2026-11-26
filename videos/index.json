@@ -1,13 +1,6 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "days": {
-  "2026-11-25": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-25/horoscope.mp4",
-    "caption": "Le classement astro du jour (25/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   }
-  },
   "2026-11-26": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-26/horoscope.mp4",
@@ -101,6 +94,18 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-05/jeux.mp4",
     "caption": "4 astuces pour mieux jouer a Aperture Desk Job ! Tu as testé le jeu sur ton bureau ou uniquement en ligne ? #jeuxvideo #astuces #gaming #tips",
     "title": "Astuces : Aperture Desk Job"
+   }
+  },
+  "2026-12-06": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-06/horoscope.mp4",
+    "caption": "Le classement astro du jour (06/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
+   },
+   "mot_kreol": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-06/mot_kreol.mp4",
+    "caption": "Ti kou kreyol du jour : Chalè=chaleur, Dous=doux, sucré, Pwason=poisson, Kann=canne à sucre. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
+    "title": "Ti kou kreyol — Chalè, Dous..."
    }
   }
  }
