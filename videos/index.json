@@ -1,23 +1,16 @@
 {
- "generated": "2026-11-26",
+ "generated": "2026-11-27",
  "days": {
-  "2026-11-26": {
-   "horoscope": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-26/horoscope.mp4",
-    "caption": "Le classement astro du jour (26/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
-    "title": ""
-   },
-   "manga": {
-    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-26/manga.mp4",
-    "caption": "L'histoire de Omniscient Reader en 1 minute ! Si tu savais tout avant le début, changerais-tu ton destin ? #manga #mangatiktok #histoire #otaku",
-    "title": "L'histoire de Omniscient Reader"
-   }
-  },
   "2026-11-27": {
    "horoscope": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-27/horoscope.mp4",
     "caption": "Le classement astro du jour (27/11) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
     "title": ""
+   },
+   "actu": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-27/actu.mp4",
+    "caption": "L'actu Antilles & Monde du 27/11 : Prise de fonctions Baie-Mahault, Saint-Joseph peut prendre le large, Lauriem Mompelat gagne finale, Un drone intrusion Lettonie... Mo kreyol : Kann = canne à sucre. Sources : La 1ere, franceinfo. #guadeloupe #martinique #antilles #actu #france #monde #creole #971",
+    "title": "L'actu Antilles & Monde du 27/11"
    }
   },
   "2026-11-28": {
@@ -28,8 +21,8 @@
    },
    "jeux": {
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-11-28/jeux.mp4",
-    "caption": "4 astuces pour mieux jouer a Psychonauts 2 ! Quel pouvoir psychique préfère-tu utiliser en premier dans tes aventures ? #jeuxvideo #astuces #gaming #tips",
-    "title": "Astuces : Psychonauts 2"
+    "caption": "4 astuces pour mieux jouer a Horizon Forbidden West ! Quelle stratégie préfères-tu pour vaincre les machines géantes ? #jeuxvideo #astuces #gaming #tips",
+    "title": "Astuces : Horizon Forbidden West"
    }
   },
   "2026-11-29": {
@@ -106,6 +99,13 @@
     "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-06/mot_kreol.mp4",
     "caption": "Ti kou kreyol du jour : Chalè=chaleur, Dous=doux, sucré, Pwason=poisson, Kann=canne à sucre. Tu en connaissais combien ? #creole #kreyol #guadeloupe #martinique #apprendrelecreole #antilles #gwada",
     "title": "Ti kou kreyol — Chalè, Dous..."
+   }
+  },
+  "2026-12-07": {
+   "horoscope": {
+    "url": "https://mistergwadadi.github.io/mistergwadadi-legal/videos/2026-12-07/horoscope.mp4",
+    "caption": "Le classement astro du jour (07/12) - genere par IA, pour le fun ! #horoscope #astrologie #zodiaque #topsignes",
+    "title": ""
    }
   }
  }
